@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+.card-deck{
+    padding:  60px;
+    background-color: rgb(235, 110, 106);
+    padding-left: 250px;
+    text-align: center;
+}
+.row{
+    margin-left: 50px;
+}
+img{
+    margin: 5px;
+}
+#e{
+    display: flex;
+    margin-left: 1400px;
+}
+.card{
+    border-radius: 10px;
+    background: rgb(185, 190, 238);
+    box-shadow: 0 6px 10px rgb(230, 167, 95), 0 0 6px rgba(124, 211, 116, 0.842);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    cursor: pointer;
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}

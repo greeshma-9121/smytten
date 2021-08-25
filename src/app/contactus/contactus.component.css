@@ -1,0 +1,15 @@
+body{
+    background-image: url(../../assets/images/aboutbg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3,p{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 50px;
+}
+#one{
+    text-align: center;
+    color: whitesmoke;
+}

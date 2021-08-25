@@ -1,0 +1,27 @@
+body{
+    background-image: url(../../assets/images/aboutbg1.jpg);
+    background-size: cover;
+    height: 80vh;
+    width: 1520px;
+}
+h4,p{
+    color: lavenderblush;
+    margin-left: 200px;
+    font-family: cursive, 'Times New Roman', Times, serif;
+    padding-top: 50px;
+}
+
+img{
+    padding-left: 200px;
+}
+h6{
+    color: lavenderblush;
+    padding-top: 60px;
+    padding-left: 80px;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+h3{
+    color: lavenderblush;
+    text-align: center;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}

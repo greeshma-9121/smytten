@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    padding: 5px;
+    margin: 20px;
+    margin-left: 200px;
+  }
+li {
+    display: inline-block; }
+a i {
+    display: block;
+    width: 40px;
+    height: 45px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    background: #000;
+    margin-right: 15px;
+    color: #fff; } 
+a i.fa-facebook {
+      background-color: #3B5998; }
+a i.fa-twitter {
+      background-color: #55ACEE; }
+a i.fa-google-plus {
+      background-color: #DD4B39; }
+a i.fa-linkedin {
+      background-color: #0976B4; }
+a i.fa-instagram {
+      background-color: #B7242A; 
+}
+span{
+  color: #fff;
+  margin-right: 100px;
+  padding: 10px;
+  text-align: center;
+}
+.right{
+  display: flex;
+  margin-left: 100px;
+  text-align: center;
+}
+h5{
+  padding: 15px;
+  color: aliceblue;
+  margin-left: 215px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+      padding-left: 230px;
+      color: aliceblue;
+      font-family: 'Times New Roman', Times, serif;
+}

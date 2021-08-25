@@ -1,0 +1,31 @@
+h3,p{
+    color: rgb(190, 229, 235);
+    margin-left: 200px;
+    font-family: cursive;
+    padding-top: 100px;
+}
+p{
+    padding-top: 5px;
+}
+.right{
+    display:flex;
+    margin-left: 200px;
+}
+div{
+    animation-name: changeimage;
+    background-image: url(../../assets/images/bg1.jpg);
+    animation-duration: 20s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh ;
+    overflow:inherit;
+    animation-delay: 2s;
+}
+@keyframes changeimage
+{
+    0%{ background-image: url(../../assets/images/bg1.jpg);}
+    25%{background-image: url(../../assets/images/bg2.jpg);}
+    50%{background-image: url(../../assets/images/bg3.jpg);}
+    75%{background-image: url(../../assets/images/bg4.jpg);}
+    100%{background-image: url(../../assets/images/bg5.jpg);}
+}

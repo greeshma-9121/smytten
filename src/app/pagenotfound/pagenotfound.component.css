@@ -1,0 +1,11 @@
+h4,p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    display: flex;
+    margin-left: 720px;
+}
+body{
+    background-color: rgb(154, 228, 228);
+}

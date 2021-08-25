@@ -1,0 +1,17 @@
+a{
+    color: black;
+}
+#demo:hover {
+    background-color: rgb(136, 137, 196);
+    border-radius: 5px;
+  }
+.right{
+    display: flex;
+    margin-left: 400px;
+}
+.navbar{
+    background-color: pink;
+}
+.dropdown{
+    border-radius: 20px;
+}
